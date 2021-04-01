@@ -12,6 +12,8 @@ I'am Mohammed from Egypt, and I'am Android developer.I really enjoy learning pro
 * Adobe XD, Photoshop, Illustrator
 * Dependency Injection (Kodein)
 * Third party libraries
+* Android Jetpack (Room, Navigation)
+* Material Design
 
 ## Freelancing
 * Fiverr : https://www.fiverr.com/muhamedhamed020
