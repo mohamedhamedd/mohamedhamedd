@@ -13,7 +13,7 @@ of minimal elegant design & great functionality, I am working as a freelancer fo
 * Adobe XD, Photoshop, Illustrator
 * Dependency Injection (Kodein, Koin, Dagger)
 * Third party libraries
-* Android Jetpack (Room, Navigation)
+* Android Jetpack (Room, Navigation, pagging)
 * Material Design
 * Some what CSS, HTML JS
 
