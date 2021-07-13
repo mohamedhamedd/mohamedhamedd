@@ -11,7 +11,7 @@ of minimal elegant design & great functionality, I am working as a freelancer fo
 * Coroutines
 * Design pattern MVVM, MVP
 * Adobe XD, Photoshop, Illustrator
-* Dependency Injection (Kodein)
+* Dependency Injection (Kodein, Koin, Dagger)
 * Third party libraries
 * Android Jetpack (Room, Navigation)
 * Material Design
