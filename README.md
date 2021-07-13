@@ -15,6 +15,7 @@ of minimal elegant design & great functionality, I am working as a freelancer fo
 * Third party libraries
 * Android Jetpack (Room, Navigation)
 * Material Design
+* Some what CSS, HTML JS
 
 ## Freelancing
 * Fiverr : https://www.fiverr.com/muhamedhamed020
