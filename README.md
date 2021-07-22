@@ -4,18 +4,12 @@ I'm a self-taught Android app developer, I love solving problems with mobile app
 of minimal elegant design & great functionality, I am working as a freelancer for 3+ years.
 
 ## Skills and Experience
-* Kotlin 
-* Java
-* Android studio 
-* Retrofit
-* REST API and JSON
-* Coroutines
-* Design pattern MVVM, MVP
-* Adobe XD, Photoshop, Illustrator
-* Dependency Injection (Kodein, Koin, Dagger)
-* Third party libraries
-* Android Jetpack (Room, Navigation, Pagging)
-* Material Design
+* Kotlin * Java
+* Android studio * Retrofit
+* REST API and JSON * Coroutines
+* Design pattern MVVM, MVP * Adobe XD, Photoshop, Illustrator
+* Dependency Injection (Kodein, Koin, Dagger) * Third party libraries
+* Android Jetpack (Room, Navigation, Pagging) * Material Design
 * Some what CSS, HTML JS
 
 ## Freelancing
