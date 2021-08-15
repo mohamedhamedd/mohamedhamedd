@@ -4,7 +4,7 @@ I'm a self-taught Android app developer, I love solving problems with mobile app
 of minimal elegant design & great functionality, I am working as a freelancer for 3+ years.
 
 ## Skills and Experience
-* Kotlin / Java
+* Kotlin / Java / Python 
 * Android studio 
 * Android Jetpack (Room, Navigation, Pagging) 
 * Retrofit
