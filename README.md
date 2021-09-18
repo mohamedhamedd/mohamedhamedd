@@ -15,6 +15,8 @@ of minimal elegant design & great functionality, I am working as a freelancer fo
 * Third party libraries
 * Material Design
 * Adobe XD, Photoshop, Illustrator
+* Python flask
+* Python web scrapping
 * Some what CSS, HTML JS
 
 ## Freelancing
